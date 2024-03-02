@@ -1,6 +1,10 @@
 [
     {
-        "title":"Call bank on Friday",
-        "text":"123 456 789"
+        "title": "Call bank on Friday",
+        "text": "123 456 789"
+    },
+    {
+        "title": "Test saving a new note",
+        "text": "Test test"
     }
 ]
