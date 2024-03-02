@@ -6,5 +6,15 @@
     {
         "title": "Test saving a new note",
         "text": "Test test"
+    },
+    {
+        "title": "Test a new note with uuid",
+        "text": "uuid",
+        "id": "1f0c2033-bd41-44c5-9424-ea196048417a"
+    },
+    {
+        "title": "new note with uuid",
+        "text": "uuid",
+        "id": "4c5c65ff-f49a-4cc5-a9ef-98dfe6574153"
     }
 ]
