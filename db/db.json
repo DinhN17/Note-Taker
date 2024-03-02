@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Test saving a new note",
+        "text": "Test test"
+    },
+    {
+        "title": "Call bank on Friday",
+        "text": "123456789",
+        "id": "7665e1fa-de24-4989-bf04-85a904d71d4c"
+    },
+    {
+        "title": "Test saving a new note",
+        "text": "Test",
+        "id": "8cef7d26-8177-45d1-8a02-221293542b7a"
+    }
+]
