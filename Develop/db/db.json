@@ -1,20 +1,16 @@
 [
     {
-        "title": "Call bank on Friday",
-        "text": "123 456 789"
-    },
-    {
         "title": "Test saving a new note",
         "text": "Test test"
     },
     {
-        "title": "Test a new note with uuid",
-        "text": "uuid",
-        "id": "1f0c2033-bd41-44c5-9424-ea196048417a"
+        "title": "Call bank on Friday",
+        "text": "123456789",
+        "id": "7665e1fa-de24-4989-bf04-85a904d71d4c"
     },
     {
-        "title": "new note with uuid",
-        "text": "uuid",
-        "id": "4c5c65ff-f49a-4cc5-a9ef-98dfe6574153"
+        "title": "Test saving a new note",
+        "text": "Test",
+        "id": "8cef7d26-8177-45d1-8a02-221293542b7a"
     }
 ]
