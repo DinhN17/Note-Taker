@@ -12,7 +12,7 @@ notes.get('/', (req, res) => {
     .then((data) => res.json(JSON.parse(data)));
 });
 
-// POST Route for save note
+// POST Route for saving note
 notes.post('/', (req, res) => {
     console.log(req.body);
 
@@ -32,7 +32,7 @@ notes.post('/', (req, res) => {
     }
 });
 
-// DELETE Route for delete note
+// DELETE Route for deleting note
 notes.delete('/:id', (req, res) => {
     console.log(req.params.id);
 

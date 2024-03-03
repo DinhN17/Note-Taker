@@ -8,7 +8,7 @@ Note taker is a webpage to write and save notes. It uses an Express.js back end 
 
 Follow the below steps to install on local computer.
 - Step 1: clone project to your local computer.
-- Step 2: run "npm install" to install the required modules (inquirer, jest).
+- Step 2: run "npm install" to install the required modules (express, uuid).
 - Step 3: run "npm start" to run a local webpage at http://localhost:3001 
     
 ## Usage
