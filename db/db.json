@@ -1,9 +1,5 @@
 [
     {
-        "title": "Test saving a new note",
-        "text": "Test test"
-    },
-    {
         "title": "Call bank on Friday",
         "text": "123456789",
         "id": "7665e1fa-de24-4989-bf04-85a904d71d4c"
